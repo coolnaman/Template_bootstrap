@@ -1,0 +1,159 @@
+.no-padding{
+	padding: 0px;
+}
+.logos h2{
+	text-align: center;
+	color: #000652;
+	text-shadow: 2px 2px 3px #757EF9;
+	font-family: 'Kaushan Script', cursive;
+}
+.About{
+	margin-top:60px;
+}
+.Heads h3{
+	font-weight: bold;
+}
+.Heads span{    background: #440404 none repeat scroll 0 0;
+    display: block;
+    height: 2px;
+    margin: 25px 0;
+    width: 60px;
+}
+.Heads p{
+	margin-top: 15px;
+	display: block;
+	font-size: 20px;
+}
+.Heads1{
+	padding: 2rem;
+}
+.btn1 a:hover{
+	background:#fff;
+	color:#111 !important;
+	font-weight: bold;
+	
+}
+
+.para1 p{
+	color: #fff;
+	line-height: 1.6;
+	font-size: 25px;
+	text-align: center;
+	opacity: 1;
+    padding:125px 200px 40px 200px;
+}
+.align-center{
+	text-align: center;
+}
+.image2{
+	background:linear-gradient(rgba(251, 146, 122  ,0.3),rgba(179, 241, 76  ,0.4)),url(../images/nd.jpg);width: 100%;height:750px;background-size: 100%;background-position: 50% 50%;
+}
+.image2 h1{
+	font-size: 90px;
+	color:#310E0E;
+	font-family: 'Pacifico', cursive;
+	margin: 0px;
+	padding:325px;
+}
+.image3{
+	background:linear-gradient(rgba(42, 142, 175  ,0.4),rgba(245, 245, 188 ,0.6)),url(../images/potrait.jpg);width: 100%;height:750px;background-size: 100%;background-position: 50% 50%;
+	background-attachment: fixed;
+}
+.image3 h1{
+	font-size: 90px;
+	color:#D6EAF8;
+	font-family: 'Pacifico', cursive;
+	padding-left: 40%;
+    padding-top: 20%;
+
+}
+.image4{	background:url(../images/p1.jpg);background-size:100%;height:750px; margin-top: 75px;
+
+}
+.image5{	background:url(../images/p2.jpeg);background-size:100%;height:500px; margin-top:50px;
+}
+.image5:hover{
+	background:linear-gradient(rgba(168, 212, 243 ,0.4),rgba(56, 155, 221,0.4)),url(../images/p2.jpeg);background-size:100%;height:500px; margin-top:50px;border: 3px solid #fff;
+}
+.image6{	background:url(../images/p3.jpg);background-size:100%;height:500px; margin-top:50px;
+}
+.image6:hover{
+	background:linear-gradient(rgba(4, 72, 120,0.4),rgba(51, 52, 52,0.6)),url(../images/p3.jpg);background-size:100%;height:500px; margin-top:50px;border: 3px solid #fff;
+}
+.imgg{
+background:url(../images/wonder.jpg);background-size:100%;height:100%;
+background-attachment: fixed;	
+}
+.imgg h1{
+		font-size: 90px;
+	color:#2980B9;
+	font-family: 'Pacifico', cursive;
+	padding-left: 25%;
+    padding-top: 5%;
+    background-attachment: fixed;
+}
+.effects{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    background: rgba(0,0,0,0.4);
+    opacity:0;
+    transition: 2s;
+    color:#fff;
+}
+.my:hover .effects{
+	opacity: 1;
+}
+.contact{
+	background:#333;
+}
+.c1{
+
+	padding: 20px;
+	margin-left: 20px;
+}
+.c1 h2{
+	font-weight: bold;
+	color:white;
+	font-family: 'Patua One', cursive;
+}
+.c1 span{
+	background: #fff none repeat scroll 0 0;
+    display: block;
+    height: 2px;
+    margin: 25px 0;
+    width: 60px;
+    opacity: 0.7;
+}
+.c1 h3{
+	color: #fff;
+}
+.c2{
+	padding:20px; 
+}
+.c2 h2{
+	font-weight: bold;
+	color:white;
+	font-family: 'Patua One', cursive;
+}
+.c2 span{
+	background: #fff none repeat scroll 0 0;
+    display: block;
+    height: 2px;
+    margin: 25px 0;
+    width: 60px;
+    opacity:0.7; 
+
+}
+.c2 h4{
+	color: #fff;
+}
+.s1{
+	width: 70%;
+	text-align:center;
+	background: #fff none repeat scroll 0 0;
+    display: block;
+    height: 2px;
+    opacity:0.7; 
+}
